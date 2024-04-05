@@ -5,7 +5,7 @@ console.log('nomes');
 let pessoas = require('./dados');
 let frutas = require('./dados');
 
-let {nomes,frutas,soma}=require(./dados);
+let {nomes,frutas,soma}=require('./dados');
 
 //console.log(pessoas);
 //console.log(pessoas[0]);
